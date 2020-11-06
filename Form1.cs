@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace PicturBox
 {
+    // ciao
     public partial class frmMain : Form
     {
         int stato = 0;
